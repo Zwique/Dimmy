@@ -27,3 +27,4 @@ python3 key-logger.py
 ```
 python3 spam.py
 ```
+<img>src="https://gifdb.com/images/high/hard-work-robot-typing-le5h2l6fhcgl3cli.gif"</img>
