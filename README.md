@@ -21,10 +21,11 @@ git clone https://github.com/Zwique/Dimmy.git
 ```
 python3 key-logger.py
 ```
+<img src="https://media2.giphy.com/media/2kXLNQypdX9O1A3zxX/giphy.gif?cid=6c09b95206f5q181ck7kfv6wjaoyu66om7bxwxl7rz6vbt3m&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
 
 ### The Spammer
 
 ```
 python3 spam.py
 ```
-<img>src="https://gifdb.com/images/high/hard-work-robot-typing-le5h2l6fhcgl3cli.gif"</img>
+<img src="https://gifdb.com/images/high/hard-work-robot-typing-le5h2l6fhcgl3cli.gif" />
