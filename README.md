@@ -35,5 +35,6 @@ python3 spam.py
 
 > [!IMPORTANT]
 > Enter the text and the number of times you want to print it.
+
 > [!IMPORTANT]
 > Click on the location where you want to send the message.
