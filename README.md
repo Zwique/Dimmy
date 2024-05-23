@@ -1,14 +1,14 @@
 # Dimmy
 Keylogger &amp; Spammer
 
-```
-DDDDD   IIIIII  MMM   MMM  MMM   MMM  Y     Y
-D    D    I     M  M M  M  M  M M  M   Y   Y 
-D     D   I     M   M   M  M   M   M    Y Y  
-D     D   I     M       M  M       M     Y   
-D     D   I     M       M  M       M     Y   
-D    D    I     M       M  M       M     Y   
-DDDDD   IIIIII  M       M  M       M     Y
+``` diff
++ DDDDD   IIIIII  MMM   MMM  MMM   MMM  Y     Y
++ D    D    I     M  M M  M  M  M M  M   Y   Y 
++ D     D   I     M   M   M  M   M   M    Y Y  
++ D     D   I     M       M  M       M     Y   
++ D     D   I     M       M  M       M     Y   
++ D    D    I     M       M  M       M     Y   
++ DDDDD   IIIIII  M       M  M       M     Y   
 ```
 
 ## Installation
