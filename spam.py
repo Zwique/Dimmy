@@ -13,7 +13,7 @@ DDDDD   IIIIII  M       M  M       M     Y
 
 # Define the text and the number of times to write it
 text_to_write = input("Text to write: ")
-repeat_count = int(input("Number of times to write the text:"))
+repeat_count = int(input("Number of times to write the text: "))
 current_count = 0
 
 def on_click(x, y, button, pressed):
