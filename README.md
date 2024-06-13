@@ -16,6 +16,11 @@ Keylogger &amp; Spammer
 ``` sh
 git clone https://github.com/Zwique/Dimmy.git
 ```
+
+### Installing required libraries
+```
+pip install -r requirements. txt
+```
 ### The Keylogger
 
 > [!IMPORTANT]
