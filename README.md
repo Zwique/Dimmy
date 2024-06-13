@@ -19,7 +19,7 @@ git clone https://github.com/Zwique/Dimmy.git
 
 ### Installing required libraries
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 ### The Keylogger
 
