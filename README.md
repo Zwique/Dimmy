@@ -34,6 +34,12 @@ python3 key-logger.py
 ### The Spammer
 
 > [!IMPORTANT]
+> Make sure to Give Python Accessibility Permissions.
+1. Open System Settings → Privacy & Security → Accessibility
+2. Click the + button to add a new app
+3. Add your `Code Editor`
+
+> [!IMPORTANT]
 > Enter the text and the number of times you want to print it.
 
 > [!IMPORTANT]
